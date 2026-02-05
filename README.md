@@ -79,3 +79,10 @@ Edge Device: Raspberry Pi 5 deployment and validation completed
 
 Final Note
 This project includes a pretrained, edge-optimized model, enabling immediate real-time inference without retraining. The focus is on practical applicability, system integration, and deployment readiness, making it suitable for real-world intelligent transportation systems.
+
+Demo:
+
+
+https://github.com/user-attachments/assets/c565628a-0cbb-44cf-9921-5468fa52d421
+
+
