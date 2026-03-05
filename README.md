@@ -1,3 +1,7 @@
+My Team : Thanmayi K
+          M Anjana Apoorva
+          D Revathi(myself)
+#TeamART          
 #Vision-Based Driver Drowsiness & Distraction Detection System
  Real-Time Monitoring using Transfer Learning and Edge-Optimized Inference
 
@@ -41,9 +45,8 @@ Computer Vision & ML
 OpenCV
 MediaPipe
 Transfer Learning (MobileNetV2)
-Hardware & Deployment
 Laptop Webcam (live demo)
-Raspberry Pi 5 (edge deployment and testing completed)
+
 
 Running the Project
 1️⃣ Clone the repository
@@ -56,9 +59,6 @@ The system will activate the webcam and display the driver’s current state in 
 ⛔ How to Stop Execution
 press Q in the OpenCV display window (if enabled)
 
-🧪 Edge Device Deployment (Completed)
-The system has been successfully integrated and tested on Raspberry Pi 5, validating its suitability for edge-based deployment. The TFLite model enables on-device inference without the need for retraining.
-During testing, a minor inference latency was observed due to real-time video capture, facial landmark extraction, and CPU-based model execution. This reflects realistic edge-computing constraints and provides valuable insight for further optimization.
 
 🎓 Key Learnings
 End-to-end development of a real-time vision-based ML system
@@ -75,7 +75,7 @@ Integration with vehicle systems for automated safety responses
 
 🎥 Demonstration
 Laptop: Live webcam-based real-time demo
-Edge Device: Raspberry Pi 5 deployment and validation completed
+
 
 Final Note
 This project includes a pretrained, edge-optimized model, enabling immediate real-time inference without retraining. The focus is on practical applicability, system integration, and deployment readiness, making it suitable for real-world intelligent transportation systems.
