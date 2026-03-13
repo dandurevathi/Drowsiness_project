@@ -1,7 +1,8 @@
-My Team : Thanmayi K
-          M Anjana Apoorva
-          D Revathi(myself)
-#TeamART          
+Name : D Revathi
+Email: dandurevathi5@gmail.com
+College Name: Gitam University
+Skill Track - Machine Learning
+
 #Vision-Based Driver Drowsiness & Distraction Detection System
  Real-Time Monitoring using Transfer Learning and Edge-Optimized Inference
 
